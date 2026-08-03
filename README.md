@@ -73,9 +73,21 @@ The app will now launch successfully, and macOS will remember your exception for
 
 ---
 
+## 🙏 Acknowledgements & Credits
+
+A massive thank you to **[taigrr](https://github.com/taigrr)** for creating **[spank](https://github.com/taigrr/spank)**. 
+
+* **Backend Architecture & Logic:** The underlying system architecture and execution flows were designed using concepts from his project.
+* **Hardware Integration:** The low-level IOKit sensor monitoring, power state tracking, and event-handling techniques were adapted directly from `spank` to deliver seamless audio and keyboard feedback on macOS.
+
+Please make sure to check out, star, and support his original project at **[github.com/taigrr/spank](https://github.com/taigrr/spank)**!
+
+---
+
 ## ⚠️ Disclaimer
 
 This application is built for personal use and enhancement of the macOS audio experience. The creator is not responsible for any unexpected system behavior or configuration modifications resulting from third-party utility usage.
 
 ---
+
 **Made with ❤️ by [ankitpandeynine](https://github.com/ankitpandeynine)**
