@@ -30,8 +30,10 @@ Welcome to **Spunku**! This is a lightweight, advanced macOS utility designed to
 ### First-Time Password Access
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b20d457c-baad-49b9-a648-19f6c5357d64" width="900" alt="First-Time Password Access">
+ <img width="1140" height="742" alt="Screenshot 2026-07-22 at 12 42 30 AM" src="https://github.com/user-attachments/assets/4d0c4a4c-b662-4621-b028-646d3f403bfb" />
 </p>
+
+
 
 ---
 
