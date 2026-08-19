@@ -13,6 +13,19 @@ Welcome to **Spunku**! This is a lightweight, advanced macOS utility designed to
 
 ---
 
+Pics-
+
+Actual layout
+<img width="365" height="755" alt="Screenshot 2026-07-22 at 12 43 06 AM" src="https://github.com/user-attachments/assets/2acee602-0cf4-41bb-81d6-cbbd829d40aa" />
+
+Over all look on Mac
+<img width="1710" height="1112" alt="Screenshot 2026-07-22 at 12 41 11 AM" src="https://github.com/user-attachments/assets/f1a3b9cd-5fd6-4ae7-84d4-b350d7fed144" />
+
+Entering the password for the first time to let the software access the kernel of mac to get data of sensors
+<img width="1710" height="1112" alt="Screenshot 2026-07-22 at 12 41 11 AM" src="https://github.com/user-attachments/assets/b20d457c-baad-49b9-a648-19f6c5357d64" />
+
+---
+
 ## 📥 Installation Guide (For End Users)
 
 If you downloaded Spunku from the releases page, follow these quick steps to get started:
