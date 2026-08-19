@@ -11,18 +11,27 @@ Welcome to **Spunku**! This is a lightweight, advanced macOS utility designed to
 * **🔋 IOKit Power & Lid Intelligence:** Automatically tracks system power states and lid open/close events to handle background audio behaviors seamlessly and efficiently.
 * **🪶 Low Resource Footprint:** Optimized natively in Swift for macOS, running quietly in the background without draining your battery or system resources.
 
----
+----
 
-Pics-
+## Screenshots
 
-Actual layout
-<img width="365" height="755" alt="Screenshot 2026-07-22 at 12 43 06 AM" src="https://github.com/user-attachments/assets/2acee602-0cf4-41bb-81d6-cbbd829d40aa" />
+### Actual Layout
 
-Over all look on Mac
-<img width="1710" height="1112" alt="Screenshot 2026-07-22 at 12 41 11 AM" src="https://github.com/user-attachments/assets/f1a3b9cd-5fd6-4ae7-84d4-b350d7fed144" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2acee602-0cf4-41bb-81d6-cbbd829d40aa" width="365" alt="Actual Layout">
+</p>
 
-Entering the password for the first time to let the software access the kernel of mac to get data of sensors
-<img width="1710" height="1112" alt="Screenshot 2026-07-22 at 12 41 11 AM" src="https://github.com/user-attachments/assets/b20d457c-baad-49b9-a648-19f6c5357d64" />
+### Overall Look on Mac
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1a3b9cd-5fd6-4ae7-84d4-b350d7fed144" width="900" alt="Overall Look on Mac">
+</p>
+
+### First-Time Password Access
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b20d457c-baad-49b9-a648-19f6c5357d64" width="900" alt="First-Time Password Access">
+</p>
 
 ---
 
